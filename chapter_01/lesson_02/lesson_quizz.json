@@ -1,0 +1,48 @@
+{ "questions":
+  [
+    {
+      "content": "Quel est le premier logiciel de DAO ?",
+      "explanation": " Les prémices du BIM apparaissent en 1963 lorsque Sutherland propose le logiciel Sketchpad, précurseur de l’interface graphique et de la DAO.",
+      "answers": [
+        {
+          "content": "Revit",
+          "is_correct": "false"
+        },
+        {
+          "content": "AutoCAD",
+          "is_correct": "false"
+        },
+        {
+          "content": "Sketchpad",
+          "is_correct": "true"
+        },
+        {
+          "content": "ArchiCad",
+          "is_correct": "false"
+        }
+      ]
+    },
+    {
+      "content": "Quels sont les avantages de la CAO 3D ",
+      "explanation": " Grâce à la 3D le projet devient beaucoup plus visualisable et proche de la réalité.",
+      "answers": [
+        {
+          "content": "On peut plus facilement communiquer avec le projet qu'avec de la DAO 2D",
+          "is_correct": "true"
+        },
+        {
+          "content": "La modélisation est paramétrique",
+          "is_correct": "false"
+        },
+        {
+          "content": "On peut créer et imaginer différentes versions",
+          "is_correct": "true"
+        },
+        {
+          "content": "On a plusieurs dessins indépendants (plans, coupes, élévations et axonométries).",
+          "is_correct": "false"
+        }
+      ]
+    }
+  ]
+}
