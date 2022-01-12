@@ -1,195 +1,181 @@
-# ℹ️ Une Technologie de l'Information 
-
-
-
-## Le BIM est une technologie de l'information
-
-
-
-Le BIM est une technologie de l'information et de la communication, pourquoi ?
-
-C'est une méthode de gestion de projet et de travail qui va s'articuler autour d'un modèle numérique où l'on va retrouver toutes les informations d'un projet dans son cycle de vie. Le BIM va permettre de gérer et stocker des informations, échanger, rechercher, collaborer, préciser des informations à travers ce modèle numérique.
-
-Actuellement, les projets de construction auxquels les jeunes ingénieurs collaborent en début de carrière n’utilisent déjà plus de rot rings ou tables à dessin pour la création de plans. Les collaborateurs plus anciens évoquent parfois ces outils de conception avec nostalgie…. 
-
-![Rotring-architectes](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/Rotring-architectes.jpeg)
-
-*Rotring original - très utile pour la conception d'esquisse et les mesures*
-
-
-
-Tout comme le mail a remplacé le courrier et les fax, les logiciels de Conception Assistés par Ordinateur (CAO) en deux dimensions et occasionnellement en trois dimensions succèdent aux dessins papiers. Ces dernières années ont vu une véritable révolution apparaitre : le modèle d’Information du Bâtiment, ou encore Maquette Numérique, en anglais « Building information Modeling » ou BIM. Selon la Fédération Française du Bâtiment, ([www.ffbim.fr](http://www.ffbim.fr)), le BIM est défini comme « une base de données, complétée et mise à jour par chaque professionnel au fur et à mesure de l’avancement du projet, de sa programmation à sa déconstruction ». Il s’agit d’une modélisation de l’information de l’infrastructure, retraçant le processus de construction, aussi bien que la gestion et la représentation du projet.
-
-Le BIM s’insère dans une série d’évolutions où l’on peut distinguer: le dessin à la main, la conception assistée par ordinateur 2D (AutoCad), la conception assistée par ordinateur 3D (AutoCad, 3DSMax) et le BIM:
-
-Le monde de l'Architecture, de l'Ingénierie du Bâtiment et du Génie civil vit enfin sa transformation digitale.
-
-- Dans les années 80 est apparue la DAO (Dessin Assisté par Ordinateur)
-
-- Dans les années 90 est apparue la CAO (Conception Assisté par Ordinateur)
-
-- Les années 2010 et 2020 voient l'avènement du BIM.
-
-C'est plus que du simple dessin et de la conception,  la donnée vient s'ajouter et compléter la représentation tridimensionnelle .
-
-![De la DAO 2D au BIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/De_la_DAO_2D_au_BIM.jpeg)
-
-*On passe progressivement de la DAO à la CAO 2D puis 3D pour arriver au BIM*
-
-<p>&nbsp;</p>
-
-## Comment dessine-t-on un projet ?
-
-Toutes ces évolutions nous amènent à repenser l'acte de conception d'un projet, comment retranscrire des idées abstraites et les communiquer ?
-
-<p>&nbsp;</p>
-
-### Dessin à la main et CAO 2D
-
----------------------------
-
-
-
-Un architecte est traditionnellement imaginé comme une personne devant une table inclinée avec un crayon, une règle, un compas, une équerre... Le concepteur produit différents types de plans comme des coupes, des perspectives, des plans d'étages... L'architecte utilise du papier et des calques pour tester différentes versions de son projet. On retrouve toujours cette manière de travailler chez des architectes expérimentés ou dans des phases très en amont du projet pour montrer des esquisses au client.
-
-![architecte traditionnel](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/architecte_traditionnel.gif)
-
-*L'architecte en plein travail*
-
-Dans cette manière de travailler on projette des idées au moyen d'une géomètrie liée à notre support qui est un rendu 2D. La manière de réfléchir est la même mais l'avantage de la CAO vient dans l'industrialisation du process. On peut facilement copier et coller, reproduire à une plus grande échelle, imprimer, représenter des alternatives et les supprimer...
-
-![DAO et CAO 2D](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/DAO_et_CAO_2D.jpeg)
-
-
-
-En 1963, un ingénieur du Massachusetts Institute of Technology (MIT) du nom d**'Ivan Sutherland** propose le logiciel **Sketchpad**. Il s'agit de l'un des premiers logiciels disposant d'une interface graphique permettant de faire du Dessin assisté par ordinateur. Viendra ensuite en 1977 un logiciel de DAO nommé **CADAM**, qui sera la premier à usage professionnel. Bien avant le bâtiment, l'aéronautique a innové dans la conception des prototypes par l'utilisation progressive de la DAO. On a pu voir alors apparaître des logiciels tels que **AutoCAD** en 1982, et **Archicad** en 1984. La représentation était ainsi réalisée au moyen de traits et de surfaces.
-
-La technique manuel consistant à réaliser des esquisses sur papiers (contenant implicitement des formes géométriques) se transpose alors sur l'ordinateur. il s'agit de la même manière de dessiner, à ceci près qu'il est possible d'industrialiser le processus, modifier ou annuler une action sans porter préjudice au support comme lorsque l'on dessine sur papier.
-
-Si l'on devait résumer et comparer ces deux techniques:
-
-| 💻 CAO 2D                                                     | ✍️ Dessin à la main                                           |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Conception rapide du plan                                    | Unique et difficilement duplicable                           |
-| Duplicable à l'infini et très rapidement                     | Tous changements implique des coûts conséquents et du temps peu efficient |
-| Modification aisée et facilité (on manipule des éléments lignes et points) | Prévoir gomme et crayons                                     |
-| On peut réutiliser le plan ou certaines de ses sections      | Non.....                                                     |
-| On peut créer et imaginer différentes versions               | Prévoir gomme, crayons et papiers                            |
-
-<p>&nbsp;</p>
-
 <p>&nbsp;</p>
 
 
-
-### CAO 2D et CAO 3D
-
---------------------------
-
-<p>&nbsp;</p>
-
-Grâce à la **3D, le projet devient beaucoup plus visualisable et proche de la réalité**. On comprend plus rapidement le projet et la communication est plus simple, même pour des non-initiés, les incompréhensions s'en retrouvent diminués.
-
-On fait la distinction entre la DAO et la CAO. Par exemple en DAO une dalle peut-être modélisée par des lignes qui n'auront comme lien entre elles qu'un lien géométrique. En CAO, la dalle sera un objet avec des propriétés géométriques et d'autres propriétés.
-
-![DAO 2D et CAO 3D](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/DAO_2D_et_CAO_3D.jpeg)
-
-
-
-Dans la DAO, on a essayé de modéliser le processus de dessin à la main, alors que l'on passe avec la **CAO à une liaison entre objets avec des caractéristiques propres**. On peut commencer à parler de modélisation paramétrique où n'importe quel changement à des implications instantanées sur d'autres paramètres (par exemple les dimensions). Et on peut commencer à réaliser des analyses de surfaces, volumes....
-
-Pour résumer:
-
-| 💻 CAO 2D                                                     | 🧊 CAO 3D                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Les objets sont constitués d’éléments géométriques (ensembles de lignes, avec point de départ et point d’arrivée, pour représenter des objets architecturaux tels que les portes, les fenêtres, les murs et les balcons) | Eléments géométriques auxquels la 3ème dimension a été rajoutée |
-| Plusieurs dessins indépendants (plans, coupes, élévations et axonométries). | Cela dépend du logiciel                                      |
-| Modification aisée et facilité (on manipule des éléments lignes et points) | ✅                                                            |
-| On peut réutiliser le plan ou certaines de ses sections      | Cela dépend du logiciel                                      |
-| On peut créer et imaginer différentes versions               | ✅                                                            |
-
+1. Notions de vocabulaire .................................................................................................................................................. 2
+2. Comprendre la structuration de la maquette numérique ............................................................................................. 3
+3. Comprendre la classification des objets BIM ................................................................................................................ 8
+4. Visualiser les propriétés des objets ............................................................................................................................. 12
 
 
 <p>&nbsp;</p>
-
-
-
-### CAO 3D et BIM
-
---------------------------
-
-
-
-Les prémices du BIM apparaissent en 1963 lorsque Sutherland propose le logiciel Sketchpad, précurseur de l’interface graphique et de la DAO.
-
-<img src="https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/Sutherland.jpeg" alt="Sutherland" style="
-    width: 50%;
-">
-
-*Ivan Sutherland*
-
-Sketchpad (alias Robot Draftsman) est un programme informatique écrit par Ivan Sutherland en 1963 dans le cadre de sa thèse de doctorat au MIT ; thèse pour laquelle il a reçu un Turing Award en 1988 et le prix de Kyoto en 2012. Sketchpad est considéré comme le précurseur des logiciels de conception assistée par ordinateur (CAO) et a ouvert la voie aux interfaces homme-machine (IHM)1.
-
-
-
-En 1992 van Nederveen & Tolman utilisent pour la première fois le terme **"Building Information Model"** dans un article scientifique. Cet article annonce que les avancées technologiques permettent maintenant aux ordinateurs d'assister les architectes dans leurs plans de conception. Il met quand meme en lumière le fait qu'il exisxte encore beaucoup de restrictions mais invite les dessinateurs a s'emparer de cette technologie pour aboutir à des conceptions complexes. On commence à parler de "building model" qui pourront être intégrés à la DAO dans des bureaux d'études techniques travaillant sur des lots différents.
-
-Le BIM se voient plus qu'un outil de Conception Assistée par Ordinateur mais comme un collègue à qui l'on va confier des tâches automatisables.
-
-en 1984, **Archicad7** développé par Graphisoft est pour beaucoup le **1er logiciel BIM**. En 2000 sort **Revit** 8, racheté en 2002 par Autodesk qui sort la même année un livre blanc: Building Information Modeling. Comme la programmation informatique qui passe dont les langages passent de variables à de la programmation orientée objet, la CAO permet maintenant de manipuler des objets au paramètres propres ou partagés.
-
-![CAO 3D et BIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/CAO_3D_et_BIM.jpeg)
-
-Avec la CAO 3D, il n'y a aucun rapport sémantique avec la construction. Le BIM reprend la logique de conception d'un bâtiment avec ses différents composants (dont on va d'ailleurs commencer la conception de la même manière que le processus réel)
-
-Pour résumer:
-
-| 🧊 CAO 3D                                                     | 💻  🏗️  BIM                                                    |
-| ------------------------------------------------------------ | :----------------------------------------------------------- |
-| Aucun entre les plans 2D et la 3D;                           | La modélisation est paramétrique                             |
-| La production de livrables (plan, coupes, élévations...) n'est pas une finalité en CAO | Les livrables sont connectés en permanence à la maquette numérique et on peut en extraire à l'infinie: (plan, coupes, élévations...) |
-| Le système géométrique est indépendant de la manière de construire | Chacun des objets BIM a des propriétés spécifiques et informations que l'on peut enrichir (matériaux, coût, conductivité thermique, maintenance, etc); |
-
 <p>&nbsp;</p>
 
-C'est une transformation digitale et même intellectuelle majeure. On parle de maquette intelligente. En plus de la géométrie réaliste de chacun des objets, nous avons des informations sur leurs composants et sur leurs connexions aux autres.
+## Notions de vocabulaire
 
-
-
+Le processus BIM fait appel à des logiciels qui ont leurs spécificités et leurs domaines d’application, par exemple
+l’architecture, la structure, ou les corps d’états techniques.
+Les logiciels dits de modélisation permettent de représenter en 3D des éléments de construction et d’y associer des
+informations.
+On appelle ces éléments des « objets BIM », l'ensemble de ces objets BIM forment la maquette numérique.
+Les logiciels de modélisation permettent de générer des fichiers numériques dans leurs formats propriétaires
+respectifs.
+Ces mêmes logiciels peuvent également exporter les maquettes numériques dans un format d’échange international
+normalisé appelé le format IFC.
+Les visionneuses comme eveBIM permettent de visualiser les maquettes numériques au format IFC.
 <p>&nbsp;</p>
-
-### L'outil de conception devient outil d'aide à la décision
-
---------------------------
-
 <p>&nbsp;</p>
-
-Depuis l'émergence du dessin assisté par Ordinateur et de la CAO, c'est une véritable disruption dans le monde de la construction et de l'architecture. Prenons l'exemple du cheminement intellectuel dans la conception d'un plan de détail de façade. 
-
-Le dessin manuel et la DAO 2D partent des mêmes principes. On est parti d'une représentation de l'esprit sur un support en deux dimensions: la feuille. On peut y distinguer 3 types d'éléments: le point, la ligne et la surface. . Ce support s'est amélioré avec l'apport du numérique et de son pouvoir d'industrialisation (copier, coller, éditer, supprimer) avec la DAO ou CAO 2D.
-
-![facade 2D dessin et DAO](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/facade_2D_dessin_et_DAO.jpeg)
-
-On passe en suite à une géométrie qui n'est plus plane mais en volume, qui nous permet de mieux nous représenter les objets dans notre esprit.
-
-![facade DAO et CAO 3D](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/facade_DAO_et_CAO_3D.jpeg)
-
-
-
-Avec le BIM, les objets deviennent intelligents avec une idée de final d'éléments constituant un modèle de la construction. Le parallélépipède peut être un poteau, un mur, une dalle, une cloison. Outre sa longueur, largeur, hauteur, il a des caractéristiques propres: références fabricants, marque, couleur, capacité thermique....). Il peut aussi avoir plusieurs objets constitutifs: cloison, isolant, enduit, montant métallique...
-
-![facade CAO 3D et BIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/facade_CAO_3D_et_BIM.jpeg)
-
+3
+## Comprendre la structuration de la maquette
+numérique
+Ouvrons maintenant la maquette numérique architecturale fournie dans le DCE BIM numérique.
+Pour rappel, cliquez sur le bouton « Ouvrir » dans le bandeau supérieur, l'arborescence de votre poste de travail
+s’ouvre, vous sélectionnez la maquette Architecte dans le dossier DCE que vous avez téléchargé.
+Validez avec la commande « Ouvrir ».
+La maquette s’ouvre, vous voyez la progression de son ouverture en bas à gauche.
+En cliquant sur le bouton « Modèles » dans le ruban supérieur, une fenêtre s’ouvre dans laquelle vous pouvez voir la
+structuration de la maquette numérique. Si les informations de certains étages sont développées vous pouvez utiliser
+la flèche à gauche de l’étage pour réduire ces informations
 <p>&nbsp;</p>
-
-Nous entrons dans un nouveau paradigme avec le BIM. La conception devient orientée objet et va nous permettre de retranscrire plus fidèlement la vision des architectes et des ingénieurs. 
-
-***Revoyez ci-contre la vidéo historique de présentation du logicel Sketchpad en 1963. ➡️***
-
 <p>&nbsp;</p>
-
+4
+Je vous propose de faire le parallèle entre la structuration d’une maquette et le rangement de vêtements dans une
+commode.
+Une commode comporte plusieurs tiroirs dans lesquels on peut ranger plusieurs types de vêtements que l’on sépare
+à l’aide de compartiments : un compartiment pour les chaussettes, un autre pour les t-shirts, un autre pour les pulls,
+etc.
+La commode et ses tiroirs sont une illustration de la structuration d’une maquette numérique, mais aussi une
+illustration de la rigueur à développer pour pouvoir garantir de retrouver ses affaires, c’est-à-dire les informations
+contenues dans la maquette.
+Une maquette numérique au format IFC est organisée avec un hiérarchie spatiale précise :
+ Le projet contient un ou plusieurs sites. Un site est un espace qui peut accueillir un ou plusieurs bâtiments.
+Si on reprend l’image de la commode, le projet correspond à la maison, le site est la chambre et le bâtiment
+correspond à la commode. S’il y a plusieurs bâtiments, il y a plusieurs commodes.
+ Un bâtiment contient un ou plusieurs niveaux. Ces niveaux correspondent aux tiroirs de notre commode.
 <p>&nbsp;</p>
-
 <p>&nbsp;</p>
-
+5
+Pour se rendre compte de la structuration des niveaux de la maquette numérique, c’est à dire du nombre de tiroirs
+et de leur contenu, on peut réaliser des vues éclatées verticales et horizontales.
+Pour cela, nous cliquons sur le bouton « Vue éclatée » dans les outils “Vue 3D”. Comme nous l’avons vu dans le
+tutoriel 1, le curseur situé sous « Bâtiment » sert à séparer chaque niveau selon un axe vertical.
+Petit rappel, pour zoomer, vous utilisez la molette de la souris en avant ou en arrière.
+Pour faire le lien avec la fenêtre « Modèle », vous voyez qu’en décochant des niveaux dans la liste, les niveaux
+correspondants disparaissent à l’écran. Si je les re-coche, ils réapparaissent.
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+6
+Vous pouvez modifier la taille des fenêtres ouvertes, comme vous pouvez les changer de place.
+Pour que la fenêtre s’accroche à une place, il faut qu’une ombre bleue apparaisse à l’écran. Vous pouvez alors poser
+la fenêtre.
+Vous pouvez également positionner une fenêtre au-dessus d’une autre fenêtre, il faut que la fenêtre du dessous
+devienne bleue, il se crée alors un onglet.
+Reprenons l’exemple de la commode.
+Par analogie, les objets BIM sont les vêtements que l’on range dans la commode. Si on déplie la flèche à gauche du
+nom de l’étage dans la fenêtre « Modèles » on peut voir la liste des objets rangés dans l’étage, comme rangés dans
+leur tiroir.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+7
+Si on utilise de nouveau la vue éclatée mais cette fois-ci sur le niveau R+1 et on fait glisser le curseur horizontal, on
+voit se détacher l’ensemble des objets contenus dans l’étage
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+8
+Pour revenir au modèle courant, remettons les curseurs à zéro et fermons les fenêtres « Modèle » et « Vue éclatée »
+en utilisant la croix en haut à droite des fenêtres que l’on veut fermer puis appuyer sur afficher tout.
+## Comprendre la classification des objets BIM
+Chaque étage de la maquette numérique contient des types d’éléments de construction standard : des murs et des
+cloisons, des dalles, des portes, des fenêtres etc... ainsi que des espaces.
+Ces éléments de construction sont assimilables aux t-shirts, chaussettes, et pantalons de notre commode. On les
+appelle des objets.
+Les objets dans la maquette numérique au format IFC sont rangés à l’aide des « Classes d’IFC ».
+Pour retrouver l’ensemble des objets rangés par classe IFC, cliquez sur le bouton « Type » dans les outils « Vues IFC ».
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+9
+Citons quelques exemples de classes d’IFC, elles sont en
+anglais car les classes .ifc sont internationales :
+ IfcWall est la classe IFC correspondant aux murs, wall
+étant la traduction du mot mur en anglais
+ IfcSlab est la classe IFC correspondant aux dalles, slab
+étant la traduction du mot dalle en anglais.
+ IfcSpace est la classe IFC correspondant aux espaces,
+spaces étant la traduction du mot espaces en anglais.
+Arrêtons-nous sur la notion d’espaces.
+Le fait de travailler en 3D entraîne la création de volumes, délimités par des murs, une dalle haute et une dalle basse.
+Ce volume ainsi créé délimite un espace.
+Lorsque des espaces ont été créés dans la maquette, ceux-ci apparaissent en bleu dans la visionneuse.
+Les espaces délimités peuvent également être en extérieur, on voit sur la maquette les espaces créés par les balcons
+et ceux créés par les toitures terrasses.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+10
+Vous pouvez cacher ces espaces pour améliorer la visibilité de la maquette.
+Pour cela, cliquez gauche pour sélectionner un élément de la maquette, cliquez sur le bouton de droite de la souris,
+sélectionnez « Cacher-> Cacher tous les espaces ».
+Sélectionnez « Afficher tout », les espaces apparaissent de nouveau.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+11
+Pour les faire disparaître, vous pouvez également décocher « IfcSpace » dans la fenêtre « Types ».
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+12
+## Visualiser les propriétés des objets
+Revenons à notre exemple de la commode.
+Chaque vêtement qui est rangé appartient à une famille de vêtements : pantalon, chemise, chaussette, et a donc des
+propriétés qui viennent de leur famille : le pantalon porte les propriétés taille, couleur, matière ; la chemise, en plus
+de ces propriétés, porte la propriété « longueur de manches », la valeur de la propriété peut être « court » ou « long ».
+C’est la même chose pour les objets de la maquette numérique.
+Les objets de la classe IfcWall portent des propriétés propres à la famille d’objet « Mur » mais pour chaque mur, les
+valeurs peuvent différer, par exemple prenons la propriété « Epaisseur » un mur pourra avoir une épaisseur différente
+d’un autre mur.
+Regardons maintenant la maquette pour voir comment nous pouvons visualiser les propriétés des objets la constituant
+et leurs valeurs.
+Pointons sur une fenêtre du projet à l’aide du clic gauche de la souris. La fenêtre se colore en rouge, elle est
+sélectionnée.
+Dans les outils « Modèles » cliquons sur « Propriétés », une nouvelle fenêtre s’ouvre avec la liste des propriétés de
+l’objet sélectionné et les valeurs correspondantes.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+13
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+14
+Pour la fenêtre sélectionnée, intéressons-nous aux propriétés « Nom de la fenêtre », « Hauteur » et « Largeur ».
+Ces propriétés sont en anglais : le nom correspond à « Name », la hauteur correspond à « Overall height » et la largeur
+correspond à « Overall width ».
+On peut créer facilement une infobulle portant ces informations, ce qui va nous permettre de voir cette sélection
+d’informations lorsque l’on approchera la souris d’une fenêtre.
+Pour cela, cliquons sur le bouton « Gestionnaire » dans le ruban supérieur et sélectionnons « Infobulle des
+propriétés ». Cette action a pour effet d’ajouter le bouton correspondant à la barre d’outils.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+15
+Il est important que le type d’objets sur lequel nous voulons une infobulle soit sélectionné, donc rouge.
+Cliquons ensuite sur le bouton « Infobulle » dans les outils « Vues 3D » pour créer la configuration de notre infobulle.
+On clique sur la flèche qui est à droite de la case qui est apparue. On sélectionne « Editer ».
+Sélectionnons « Ajouter », « Nouvelle configuration » apparaît. Donnons un nom à cette configuration par exemple :
+« Infos fenêtre ».
+Puis on clique sur le « + », la liste des propriétés apparaît, on clique sur « Name », le nom, on clique sur
+« Overallheight » et « Overallwidth », respectivement « Hauteur » et « Largeur ». Les propriétés apparaissent dans la
+liste.
+Fermons la fenêtre à l’aide de la croix en haut à gauche, les propriétés sélectionnées apparaissent dans la fenêtre, on
+clique « Appliquer » puis « Ok ».
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+16
+Dans le bandeau supérieur, vous sélectionnez « Infos fenêtre » dans la case à côté du bouton « Infobulle » puis vous
+passez la souris sur les fenêtres du projet, les propriétés « Nom de la fenêtre, hauteur et largeur » sont écrites dans
+une bulle d’informations.
+<p>&nbsp;</p>
+<p>&nbsp;</p><p>&nbsp;</p>/
+17
+///
+///
+18
+IL ARRIVE QUE SUR CERTAINS POSTES QUE LA CREATION DE L’INFOBULLES ENTRAINE LA FERMETURE DU LOGICIEL
+EVEBIM. DANS CE CAS, IL EST NECESSAIRE DE FAIRE LA MANIPULATION SUIVANTE :
+Utiliser le menu Lancer et réinitialiser les préférences de eveBIM :
+Ne créer qu'une seule configuration pour l'infobulle.
+Ce « bug » sera résolu dans une prochaine version du logiciel.

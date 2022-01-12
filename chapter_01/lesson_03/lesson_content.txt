@@ -1,118 +1,357 @@
-# 🏗️ B.I.M. 🏙️ C.I.M. & 🌳 L.I.M.
 
-------------------------------
-
-
-
-Selon l'échelle et l'utilité, le numérique s'impose petit à petit dans la conception des villes, bâtiments et de leurs rapports à la nature. Découvrons ensemble comment le digital repense toutes notre manière de prévoir les changments climatiques, démographiques et d'usage.
-
-
-
-## BIM ? Quésaco ?
-
--------------------------------
-
-
-
-Le BIM – communément Building Information Modeling – est un processus intelligent basé sur un modèle 3D qui offre aux professionnels de de l’architecture, de l’ingénierie et de la construction les informations et les outils nécessaires pour planifier, concevoir, construire et gérer plus efficacement des bâtiments et des infrastructures. Reprenons dans le détail l'acronyme, il peut avoir plusieurs significations:
-
-![B_IM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/B_IM.jpeg)
-
-Le **B** fait référence à **Building** car ici c'est une technologie que l'on veut propre au **monde de la construction et de l'architecture**. Tous les objets présents dans une maquette BIM font donc référence à des matériaux issus du monde du BTP: mur, poteaux, dalles...
-
-
-
-![BIM_](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_.jpeg)
-
-**M** peut revêtir différentes significations:
-
-- Building Information **Model**: C'est la maquette numérique du bâtiment. Il s'agit d'un ensemble de données décrivant un projet ou un bâtiment existant, en français c'est la Maquette Numérique du Bâtiment.
-- Building Information **Modeling**: C'est un processus de gestion et de création de données. Par processus on entend le fait que plusieurs intervenants vont pouvoir avoir accès aux mêmes informations au même moment.
-- Building Information **Management**: Il s'agit de l'organisation, la coordination et le contrôle nécessaire du processus qui va exploiter les données de la maquette numérique et permettre le partage des informations sur le cycle de vie d'un bâtiment.
-
- 
-
-![BI_M](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BI_M.jpeg)
-
-Le **I** est la lettre la plus importante de l'acronyme BIM.
-
-**I** peut faire référence à **l'information**: Il va contenir toutes les informations indispensables sur le projet. Cette information est organisée (par une arborescence dans chacun des objets), cette information a un sens: elle correspond à une propriété propre ou partagée par plusieurs objets.
-
-**I** peut aussi faire référence à **Intelligence**: L'information est utile et peut changer, par exemple lors que l'on change la hauteur d'un mur, la surface du mur change mais également l'élévation de la dalle qui lui est associé... **L'information peut aussi être générée au moyen d’algorithmes** qui vont calculer l'espacement entre plusieurs montants métalliques dans une façade complexe...
-
-En somme, on peut dire que le BIM est un **modèle de CAO 3D auquel on a associé une base de données**.
-
-![BIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM.gif)
-
-
-
-On peut retenir celle proposée par (Celnik & Lebegue, 2015), largement répandue en France : « Le BIM [pour Building Information Model, Modeling ou Management] est une **manière intégrée de travailler**, permettant une conception, une exécution et une gestion de bâtiments et de biens immobiliers elle aussi intégrées. **Ce n’est pas un outil, un logiciel, c’est un processus de travail et de collaboration** entre intervenants d’un projet de construction reposant sur des outils métiers particuliers qui permettent la conception et l’exploitation d’une maquette numérique préfigurant le bâtiment tel que construit et exploité (...) ».
-
-**Le BIM est le partage d'informations fiables tout au long de la durée de vie** d'un bâtiment ou d'infrastructures, de leur conception jusqu'à leur démolition.
-
-<p>&nbsp;</p>
-
-## Du 🏗️ BIM au 🏙️ CIM
-
----------------------------------------
-
-
-
-Jusque très récemment, le BIM était utilisait pour des bâtiments isolés. On arrive maintenant à l'associer à d'autres bâtiments et des quartiers pour créer des villes intelligentes: les Smart Cities. C'est une version élargit du BIM qui traite de la ville plus que le bâtiment. Nous avons atteint une stade technologique qui nous permet de traiter en même temps énormément d'informations: le niveau de pollution, le niveau d'hygrométrie, l'éclairage public, la voirie, les infrastructures publics: bus, vélib....
-
-
-
-![CIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/CIM.jpeg)
-
-*CIM de la ville de Monaco*
-
-
-<p>&nbsp;</p>
-
-On peut maintenant **commencer à simuler et prédire le futur de nouveaux quartiers avant la conception**.
-
-<p>&nbsp;</p>
-
-### Le 🌳 LIM
-
----------------------------
-
-
-
-Le **Landscape Information Modeling** va encore étendre la notion d'information et de représentation avec l'interaction avec des espaces naturels. On va se baser sur des données scientifiques et techniques qui vont **prendre en compte le vivant et son évolution dans les projets**. On peut commencer à simuler l'impact des éléments qui constituent le paysage comme les arbres: leur système racinaire, l'hygrométrie, leur croissance, la conseommation en eau... Tous les espaces extérieurs vont nous permettrent de mieux penser les espaces naturels et éviter par exemple des crues, glissement de terrain, des inondations... en prenant en compte les métadonnées des systèmes naturels.
-
-![LIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/LIM.jpeg)
-
-
-
-<p>&nbsp;</p>
-
-### **La** **Smart City** idéale:  🏗️ BIM + 🏙️ CIM + 🌳 LIM
-
---------------------------
-
-<p>&nbsp;</p>
-
-Le BIM en accord avec le CIM et le LIM permettrait de **définir des maquettes à l’échelle d’un quartier ou même d’une ville** , tout en apportant l’ensemble des informations caractérisant la modélisation : que se soit un bâtiment ainsi que les sous-sols, les réseaux d’assainissement ainsi que l’ensemble des réseaux autres enterré ( électrique , Gaz , eau …), les espaces verts ainsi que le zone humide intégrer au projet, les sous sol existant (pollution , nappe , Sol types …) , les voiries ainsi que les espaces publics.
-
-<p>&nbsp;</p>
-
-![siemens](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/siemens.gif)
-
-*La Smart City vue par Siemens*
-
-<p>&nbsp;</p>
-
-L'objectif n'est pas de demain connaître toutes les données d'une ville en temps réel, que ce soit la consommation d'eau au volume près de chaque habitant, détection de l'emplacement d'une fuite dans une canalisation souterraine... Les services municipaux seraient submergés d'informations qui les rendraient impossible à traiter.
-
-Néanmoins, une Smart City raisonnée et pensée en amont par les pouvois publics sera un outil formidable pour l'évolution des villes et notre impact sur l'environnement. 
-
-Le digital et son implémentation au travers du 🏗️ BIM, 🏙️ CIM & du 🌳 LIM sera l'outil indispensable dans cette évolution. 
-
-***La vidéo du CSTB ci-contre illustre un début d'usage du CIM dans un quartier de Bordeaux. ➡️***
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+Table des matières
+1. Ouvrir une maquette numérique au format IFC............................................................................................................ 2
+2. S’approprier la géométrie extérieure du projet ............................................................................................................ 5
+3. Améliorer la visibilité ..................................................................................................................................................... 8
+4. S’approprier l’organisation intérieure du bâtiment .................................................................................................... 13
+5. Regarder de près un étage courant pour comprendre sa distribution spatiale .......................................................... 19
+6. Prendre des côtes ........................................................................................................................................................ 25
+7. Faire une coupe dans le bâtiment ............................................................................................................................... 36
+8. Superposer 2 maquettes ............................................................................................................................................. 47
+9. Capturer des images .................................................................................................................................................... 57
+10. Fermer un fichier IFC ................................................................................................................................................. 59
+
+ 2
+1. Ouvrir une maquette numérique au format IFC
+Commençons par ouvrir la visionneuse. Nous utilisons dans ce tutoriel la visionneuse EveBIM.
+Les fonctionnalités expliquées dans ce tutoriel se retrouvent dans la plupart des visionneuses existantes.
+Pour ouvrir EveBIM à partir du bureau, vous double-cliquez sur l’icône « EveBIM ». Le logiciel s’ouvre.
+A l’ouverture d’EveBIM vous êtes susceptible de trouver le module “modèle” ouvert, nous nous y intéresserons dans
+le tuto “xxx”.
+En attendant, “fermez” ce module :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 3
+Nous allons maintenant ouvrir la maquette numérique architecturale au format IFC qui a été fournie dans le dossier
+de consultation.
+Si vous avez téléchargé le dossier de consultation sur votre poste de travail, vous pouvez cliquer sur l’onglet
+“Accueil” puis sur “Ouvrir”. Vous sélectionnez alors le fichier IFC de la maquette architecturale dans votre
+arborescence.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 4
+La maquette s’ouvre, vous voyez la progression de son ouverture en bas à gauche.
+Résultat
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 5
+2. S’approprier la géométrie extérieure du projet
+Nous allons commencer par voir les fonctionnalités de base qui permettent de comprendre la géométrie globale du
+projet.
+Dans la fenêtre principale vous voyez la maquette numérique que vous avez ouverte.
+Cliquez dans cette fenêtre en maintenant le “clic gauche” de votre souris et bougez votre souris dans la direction
+vers laquelle vous voulez faire tourner la maquette. Vous pouvez faire tourner la maquette sur elle-même en
+répétant l’opération plusieurs fois. Vous pouvez également la faire tourner de haut en bas.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 6
+Pour faire “glisser” la maquette, vous maintenez le clic de la molette enfoncé et vous déplacez votre souris dans la
+direction souhaitée.
+Pour zoomer et dézoomer, vous utilisez la molette de votre souris, avant…. Arrière….
+Si vous zoomez plusieurs fois vous pouvez rentrer dans le bâtiment en traversant les murs
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 7
+Si vous voulez repositionner la maquette dans sa position initiale, vous pouvez cliquer sur le bouton « voir modèle
+courant » qui se trouve dans les outils « vue 3D » dans le bandeau supérieur.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 8
+3. Améliorer la visibilité
+Si un élément vous gêne pour mieux comprendre le projet, il est possible de le sélectionner et de le cacher. Par
+exemple, pour voir les niveaux de sous-sol, vous pouvez vouloir cacher le terrain.
+Vous faites clic gauche sur le terrain pour le sélectionner, il devient rouge,
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 9
+Puis vous faites clic droit et sélectionner « cacher » puis « cacher la sélection ».
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 10
+Résultat après avoir caché la sélection :
+Si vous avez besoin de revenir en arrière, vous pouvez faire « Annuler ».
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 11
+Résultat après annulation :
+Si vous voulez revenir sur ce que vous avez fait, vous cliquez « Refaire »
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 12
+Résultat :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 13
+4. S’approprier l’organisation intérieure du bâtiment
+Pour s’approprier la géométrie intérieure du bâtiment, vous activez « Vue éclatée » dans les outils « Vue 3D »,
+Résultat :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 14
+Vous sélectionnez « Bâtiment » :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 15
+A. Vous faites glisser le curseur « vertical » pour séparer les différents étages.
+B. Résultat
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 16
+Pour visualiser la composition d’un étage, il est également possible d’éclater l’étage à l’horizontal. Pour cela, dans la
+fenêtre « vue éclatée » :
+A. Sélectionnez l’étage que vous souhaitez et ;
+B. Faites glisser le curseur « horizontal ».
+C. Résultat
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 17
+La maquette est désormais plus compréhensible.
+Si vous voulez revenir à la vue courante :
+A. Il vous faudra remettre les curseurs à zéro,
+B. Résultat
+Note : le bouton « modèle courant » n’aura pas d’effet sur la vue éclatée de la maquette.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 18
+Quand vous avez fini d’utiliser une fonctionnalité de la visionneuse, pensez à fermer la fenêtre à l’aide de la croix,
+sinon vous serez vite submergé par les fenêtres qui vont se mettre à gauche, à droite, en haut ou en bas de la fenêtre
+principale et celle-ci deviendra de plus en plus petite.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 19
+5. Regarder de près un étage courant pour
+comprendre sa distribution spatiale
+Nous allons maintenant regarder de près un étage courant.
+Pour cela, revenons à notre « modèle courant » sur lequel nous zoomons, toujours à l’aide de la molette de notre
+souris.
+Cliquez à l’aide du bouton gauche de la souris sur un mur de l’étage qui vous intéresse.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 20
+Puis en faisant clic droit, sélectionnez « cacher » puis « cacher les étages supérieurs »
+Résultat :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 21
+En maintenant le clic gauche appuyé et en orientant la souris vers le bas, on fait alors pivoter le bâtiment pour voir
+l’intérieur de l’étage.
+Dans la maquette, il est possible de cacher des éléments, prenons l’exemple des faux plafonds que l’on voit ici en
+gris. On peut le masquer en faisant clic gauche sur l’élément pour le sélectionner, il devient rouge
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 22
+Avec le clic droit de la souris, on sélectionne « cacher » puis « cacher la sélection ».
+L’élément disparaît :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 23
+Pour sélectionner plusieurs éléments à la fois, on maintient la touche contrôle tout en cliquant sur les différents
+éléments
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 24
+Puis on répète le clic droit, « cacher », « cacher la sélection ».
+Résultat :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 25
+6. Prendre des côtes
+La vue de l’étage nous permet de prendre des côtes à l’intérieur du bâtiment.
+Zoomons sur la maquette à l’aide de la molette de la souris.
+Les volumes bleus que vous voyez sont les espaces, vous pouvez les masquer en faisant clic droit sur la souris et en
+sélectionnant « cacher » puis « cacher tous les espaces ».
+Prenons la cote d’un mur intérieur : on sélectionne tout d’abord le bouton « mesures » dans les outils « vue 3D ».
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 26
+Une nouvelle fenêtre s’ouvre et des petits cercles bleus apparaissent, ce sont des points d’accroches rapides.
+N’hésitez pas à zoomer avec la molette de votre souris pour cliquer précisément sur le point sur lequel vous voulez
+accrocher le cercle bleu.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 27
+On clique sur un point (A) puis sur l’autre (B).
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 28
+Vous pouvez voir que la côte est maintenant inscrite dans la fenêtre « mesures » :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 29
+Prenons d’autres côtes. Par exemple les dimensions d’un mur, sa hauteur… sa largeur...
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 30
+Elargir la fenêtre “mesure” pour avoir accès à tous les attributs des mesures
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 31
+En cochant et décochant les différentes cotes dans la fenêtre “mesures”, vous les faites apparaitre ou disparaitre sur
+la maquette :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 32
+Vous pouvez également désactiver l’accrochage automatique en cochant la case mode libre.
+Si vous avez accroché un point que vous ne vouliez pas sélectionner, appuyer sur « échap » sur votre clavier.
+En sélectionnant de nouveau « mesures » dans les outils « vues 3D », on arrête la prise de côtes mais celles-ci ne
+sont pas perdues. Si vous cliquez de nouveau sur « mesures », la fenêtre réapparait avec les côtes que vous avez
+prises précédemment.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 33
+Pour supprimer définitivement une côte, vous cliquez avec le bouton gauche de votre souris sur la ligne que vous
+voulez supprimer, la ligne se met en bleu, vous faites « clic droit » sur votre souris et sélectionnez « supprimer les
+mesures », la ligne disparait.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 34
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 35
+Résultat :
+Lorsque vous voulez faire réapparaitre l’ensemble du bâtiment, cliquer sur le bouton « afficher tout » dans les outils
+« vue 3D ».
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 36
+7. Faire une coupe dans le bâtiment
+SI vous avez besoin de faire une coupe à un endroit particulier du bâtiment, il est possible de le faire à l’aide de l’outil
+« plan de coupe » qui se trouve au niveau des outils « vue 3D » dans le bandeau supérieur.
+Cliquez sur la flèche à droite de « plan de coupe », vous pouvez alors choisir votre plan de coupe : XY (plan horizontal
+le long de l’axe Z) , XZ (vertical le long de l’axe Y)) ou YZ (plan vertical le long de l’axe X).
+Choisissons le plan de coupe XY :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 37
+Le plan de coupe apparaît, il est représenté par un cercle vert.
+Pour déplacer le plan de coupe, il faut maintenir le clic gauche de la souris enfoncé pointé sur le disque vert. Quand il
+devient rouge, vous faites glisser la souris dans la direction voulue, de bas en haut dans le cas présent.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 38
+Pour revenir à la situation initiale cliquez sur “Plan de coupe”
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 39
+Recliquons sur “Plan de coupe” et choisissons cette fois ci le plan XZ.
+Le plan de coupe apparaît, représenté par le cercle vert.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 40
+Comme précédemment, pour déplacer le plan de coupe, il faut maintenir le clic gauche de la souris enfoncé pointé
+sur le disque vert, et quand il devient rouge, vous faites glisser la souris dans la direction voulue, en avant ou en
+arrière dans le cas présent.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 41
+En cliquant de nouveau sur la flèche à droite de « plan de coupe » et en sélectionnant « plan de coupe » à la fin du
+menu déroulant, une nouvelle fenêtre s’ouvre.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 42
+Cette fenêtre propose plusieurs options qui peuvent vous être utiles : en décochant la case « montrer le
+manipulateur 3D », le plan de coupe n’est plus visible. Pour déplacer le plan de coupe, vous pouvez alors utiliser le
+curseur.
+Vous pouvez alors zoomer sur la zone spécifique que vous souhaitez regarder à l’aide de la molette de votre souris. Il
+n’est pas possible par contre de prendre une côte sur une coupe car vous avez de fortes chances de sélectionner un
+point d'un élément non visible ce qui rend les mesures incohérentes ;
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 43
+Pour revenir à la situation initiale cliquez sur “Plan de coupe”
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 44
+Enfin il est possible également de créer un plan de coupe en cliquant sur une face de la maquette. Pour cela, vous
+cliquez de nouveau sur la flèche à droite de « plan de coupe » et vous choisissez “sélectionner un plan de coupe”.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 45
+Vous cliquez sur le mur à l’aide duquel vous voulez définir votre plan de coupe et vous utilisez le curseur pour
+déplacer le plan de coupe.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 46
+Pour revenir au modèle courant, cliquer sur le bouton « voire modèle courant » ne vous servira pas. Vous devez
+cliquer de nouveau sur « plan de coupe » dans les outils « vues 3D » dans le bandeau supérieur
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 47
+8. Superposer 2 maquettes
+Vous pouvez avoir besoin de superposer une maquette technique avec la maquette architecturale
+Pour cela, gardez la maquette architecturale ouverte.
+Dans l’onglet « accueil », vous cliquez sur « ouvrir » et vous sélectionnez la maquette que vous souhaitez ajouter au
+format IFC.
+Ouvrons la maquette plomberie CVC.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 48
+La maquette s’ouvre, vous pouvez voir la progression de son ouverture en bas à gauche.
+Résultat
+Si vous cliquez sur « projet » dans les outils « modèles », une fenêtre apparaît avec les 2 noms de fichiers ouverts
+cochés. [La fenêtre projet s’ouvre par défaut automatiquement]
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 49
+Si vous décochez la maquette architecture, seule apparaît la maquette CVC :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 50
+Pour refaire apparaître la maquette architecture cochez de nouveau celle-ci
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 51
+Disons maintenant que je veux voir les installations techniques en sous-sol.
+Je sélectionne un mur du sous-sol,
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 52
+Je clic droit sur ma souris, et je sélectionne « cacher » puis « cacher les étages supérieurs ».
+Résultat :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 53
+Pour améliorer la visibilité des installations techniques, je sélectionne cette fois ci une canalisation en sous-sol :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 54
+je clique droit et de nouveau je sélectionne « cacher » et« cacher les étages supérieurs ». Je peux alors facilement
+prendre connaissance du parcours des réseaux en sous-sol.
+Résultat :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 55
+Pour revenir en arrière faites “annuler”,
+Pour réafficher la maquette faite “voir le modèle courant” “Voir tout”
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 56
+Attention à bien faire “afficher tout” sur les deux modèles :
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 57
+9. Capturer des images
+Vous pouvez avoir besoin de capturer des images de la maquette pour illustrer votre mémoire technique dans le but
+de valoriser votre travail ou pour mettre en évidence un point spécifique.
+Pour faire cela, vous cliquez sur le bouton “capture d’écran” dans les outils “vue 3D”.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 58
+Une fenêtre s’ouvre avec la capture de la fenêtre principale. Vous avez le choix de coller l’image dans le pressepapier
+ou de l’enregistrer au format .png.
+Une fois dans votre document Word, vous faites CTRL + V pour coller l’image si vous l’avez sauvegardée dans le
+presse papier ou vous l’insérer à l’aide de la fonction “insérer <p>&nbsp;</p> image <p>&nbsp;</p> cet appareil” et vous allez la chercher dans
+l’arborescence à l’endroit où vous l’avez sauvegardé.
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+ 59
+10. Fermer un fichier IFC
+Vous avez deux maquettes ouvertes et vous souhaitez en fermer une seule. Cliquer sur « projet » dans les outils
+« modèles ». SI vous le souhaitez, un support au format PDF est mis à votre disposition en complément de ce
+tutoriel. Le tuto 2 quant à lui vous expliquera comment voir les informations contenues dans les objets de la
+maquette numérique.
+Une fenêtre apparaît avec les 2 noms de fichiers, cliquez sur le fichier correspondant à la maquette que vous voulez
+fermer, la ligne se met en bleu et sélectionner « fermer » dans le bandeau supérieur.
+Résultat
+Si vous souhaitez fermer l’ensemble des maquettes ouvertes, dans l’onglet fichier, vous sélectionnez « fermer tout ».
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
